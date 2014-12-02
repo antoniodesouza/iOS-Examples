@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7247F7C3-DFBB-4EE3-91A7-85F9C7513434</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PopExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1DFCE9EB-21DB-435A-9F81-E915152DECEB</key>
+		<string>https://github.com/ferminhg/iOS-7-Facebook-s-Pop-Library.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PopExample/PopExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1DFCE9EB-21DB-435A-9F81-E915152DECEB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ferminhg/iOS-7-Facebook-s-Pop-Library.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1DFCE9EB-21DB-435A-9F81-E915152DECEB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1DFCE9EB-21DB-435A-9F81-E915152DECEB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS-7-Facebook-s-Pop-Library</string>
+		</dict>
+	</array>
+</dict>
+</plist>

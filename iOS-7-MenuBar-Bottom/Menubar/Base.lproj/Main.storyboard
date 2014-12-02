@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6245" systemVersion="13F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="vXZ-lx-hvc">
+    <dependencies>
+        <deployment defaultVersion="1808" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6238"/>
+    </dependencies>
+    <scenes>
+        <!--Menubar View Controller-->
+        <scene sceneID="ufC-wZ-h7g">
+            <objects>
+                <viewController id="vXZ-lx-hvc" customClass="MenubarViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="jyV-Pf-zRb"/>
+                        <viewControllerLayoutGuide type="bottom" id="2fi-mo-0CV"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="kh9-bI-dsS">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" barStyle="black" translatesAutoresizingMaskIntoConstraints="NO" id="ydQ-rH-WN3">
+                                <rect key="frame" x="0.0" y="524" width="320" height="44"/>
+                                <color key="backgroundColor" red="0.20000000000000001" green="0.20000000000000001" blue="0.20000000000000001" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="44" id="MkN-Ry-dTe"/>
+                                </constraints>
+                                <items>
+                                    <barButtonItem image="icon_menu.png" width="50" style="plain" id="8of-Lu-9nA">
+                                        <connections>
+                                            <action selector="toolbarMenu:" destination="vXZ-lx-hvc" id="6Zg-1V-lUl"/>
+                                        </connections>
+                                    </barButtonItem>
+                                    <barButtonItem image="icon_futbol.png" width="50" id="BZH-Hj-vag">
+                                        <connections>
+                                            <action selector="toolbarHoy:" destination="vXZ-lx-hvc" id="WM9-nG-lVJ"/>
+                                        </connections>
+                                    </barButtonItem>
+                                    <barButtonItem image="icon_basket.png" width="50" id="Ezt-xd-3Tr">
+                                        <connections>
+                                            <action selector="toolbarFutbol:" destination="vXZ-lx-hvc" id="idN-tl-0Zb"/>
+                                        </connections>
+                                    </barButtonItem>
+                                    <barButtonItem image="icon_tenis.png" width="54" id="dXp-Rb-oEm">
+                                        <connections>
+                                            <action selector="toolbarBasket:" destination="vXZ-lx-hvc" id="50s-vm-I4e"/>
+                                        </connections>
+                                    </barButtonItem>
+                                    <barButtonItem image="icon_bono.png" width="50" id="sXQ-Ps-cIS">
+                                        <connections>
+                                            <action selector="toolbarTenis:" destination="vXZ-lx-hvc" id="gkx-aL-81e"/>
+                                        </connections>
+                                    </barButtonItem>
+                                </items>
+                                <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </toolbar>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="wopwop" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="35x-vF-DxL">
+                                <rect key="frame" x="127" y="273" width="66" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="70g-bG-Ibj">
+                                <rect key="frame" x="0.0" y="33" width="320" height="44"/>
+                                <items>
+                                    <barButtonItem image="toolbar_icon_generico.png" style="plain" id="cQF-Kl-Dzb"/>
+                                    <barButtonItem image="toolbar_icon_generico.png" style="plain" id="vQw-by-OlR"/>
+                                    <barButtonItem image="toolbar_icon_generico.png" style="plain" id="ziT-Vz-nBT"/>
+                                    <barButtonItem image="toolbar_icon_generico.png" style="plain" id="HgI-zV-cVs"/>
+                                    <barButtonItem image="toolbar_icon_generico.png" style="plain" id="Bwn-5C-n7m"/>
+                                    <barButtonItem image="toolbar_icon_generico.png" style="plain" id="UBL-wE-hgQ"/>
+                                </items>
+                            </toolbar>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="ydQ-rH-WN3" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" id="Bpm-LB-Uv0"/>
+                            <constraint firstAttribute="centerY" secondItem="35x-vF-DxL" secondAttribute="centerY" id="cpt-6K-m6h"/>
+                            <constraint firstItem="2fi-mo-0CV" firstAttribute="top" secondItem="ydQ-rH-WN3" secondAttribute="bottom" id="d3w-bE-83b"/>
+                            <constraint firstAttribute="trailing" secondItem="ydQ-rH-WN3" secondAttribute="trailing" id="deH-id-cMa"/>
+                            <constraint firstAttribute="centerX" secondItem="35x-vF-DxL" secondAttribute="centerX" id="hii-qB-DZt"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="texto" destination="35x-vF-DxL" id="r4J-53-Fkj"/>
+                        <outlet property="toolbar" destination="ydQ-rH-WN3" id="gUM-t6-C0B"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="265" y="291"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="icon_basket.png" width="52" height="45"/>
+        <image name="icon_bono.png" width="52" height="45"/>
+        <image name="icon_futbol.png" width="52" height="45"/>
+        <image name="icon_menu.png" width="50" height="43"/>
+        <image name="icon_tenis.png" width="52" height="45"/>
+        <image name="toolbar_icon_generico.png" width="32" height="32"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

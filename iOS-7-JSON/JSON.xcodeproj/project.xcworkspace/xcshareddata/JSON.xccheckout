@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7B34C8F2-2FDE-41AF-90F6-93F7BAFF29FB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JSON</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ECAA7796-1C6C-4599-AA3A-725658478C36</key>
+		<string>https://github.com/ferminhg/iOS-7-JSON.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JSON/JSON.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ECAA7796-1C6C-4599-AA3A-725658478C36</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ferminhg/iOS-7-JSON.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ECAA7796-1C6C-4599-AA3A-725658478C36</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ECAA7796-1C6C-4599-AA3A-725658478C36</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS-7-JSON</string>
+		</dict>
+	</array>
+</dict>
+</plist>

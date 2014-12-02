@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3E032D7D-093C-4384-ADA3-EC54228C8107</string>
+	<key>IDESourceControlProjectName</key>
+	<string>celdascambiadetam</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>014B1A2EAE06B80F67AFF044D7544FAA7155B2CF</key>
+		<string>https://github.com/ferminhg/Celdas-cambian-de-tama-o-cuando-se-hace-click.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>celdascambiadetam.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>014B1A2EAE06B80F67AFF044D7544FAA7155B2CF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ferminhg/Celdas-cambian-de-tama-o-cuando-se-hace-click.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>014B1A2EAE06B80F67AFF044D7544FAA7155B2CF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>014B1A2EAE06B80F67AFF044D7544FAA7155B2CF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>celdascambiadetam</string>
+		</dict>
+	</array>
+</dict>
+</plist>

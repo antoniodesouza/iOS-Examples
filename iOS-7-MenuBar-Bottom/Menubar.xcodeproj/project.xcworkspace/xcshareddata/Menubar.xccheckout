@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9B86EE3F-7321-4CA4-8376-00F11D163BC6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Menubar</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DF3920D3A32EC75767DF2D20795DB81EAC171312</key>
+		<string>https://github.com/ferminhg/iOS-7-MenuBar-Bottom.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Menubar/Menubar.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DF3920D3A32EC75767DF2D20795DB81EAC171312</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ferminhg/iOS-7-MenuBar-Bottom.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DF3920D3A32EC75767DF2D20795DB81EAC171312</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DF3920D3A32EC75767DF2D20795DB81EAC171312</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS-7-MenuBar-Bottom</string>
+		</dict>
+	</array>
+</dict>
+</plist>

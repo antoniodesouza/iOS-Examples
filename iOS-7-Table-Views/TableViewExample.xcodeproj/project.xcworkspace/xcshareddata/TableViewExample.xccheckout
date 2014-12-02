@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E459D35C-8996-40AA-8D7D-E055C8AAAF9F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TableViewExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>740F4EF9-12D5-4FEE-A446-6A6DFFC4D11C</key>
+		<string>https://github.com/ferminhg/iOS-7-Table-Views-.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TableViewExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>740F4EF9-12D5-4FEE-A446-6A6DFFC4D11C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ferminhg/iOS-7-Table-Views-.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>740F4EF9-12D5-4FEE-A446-6A6DFFC4D11C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>740F4EF9-12D5-4FEE-A446-6A6DFFC4D11C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TableViewExample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
